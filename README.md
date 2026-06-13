@@ -204,7 +204,8 @@ This makes each file easy to test, modify, and reuse independently.
 **Dipanshu Bisht**
 - GitHub: https://github.com/Dipanshu-Bisht
 - Email: dipanshu.bisht01@gmail.com
-- LinkedIn: your-linkedin-url
+- LinkedIn: https://www.linkedin.com/in/dipanshubisht23
+
 
 ---
 
